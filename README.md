@@ -75,15 +75,8 @@ Cuando haya funcionado, verás los valores dentro del monitor serial como se mue
 ![](https://github.com/WilberVD/PRACTICA-DHT/blob/main/programa%20corriendo.jpg)
 
 
-
-
-
-
-
-
-
 # Créditos
 
-Desarrollado por Ing. Diego Jasso Miranda
+Desarrollado por Wilber Valladares Diaz
 
-- [GitHub](https://github.com/DiegoJm10)
+- [GitHub](WilberVD (github.com))
