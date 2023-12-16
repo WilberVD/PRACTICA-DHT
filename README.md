@@ -1,4 +1,4 @@
-# Practica ESP32 con DHT11
+# Practica #2 ESP32 con DHT11
 Este repositorio muestra como podemos programar una ESP32 con el sensor DHT11.
 
 ## Introducción
