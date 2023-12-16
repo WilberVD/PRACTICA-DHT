@@ -60,7 +60,7 @@ void loop() {
 
 3. Hacer la conexion de **DHT11** con la **ESP32** como se muestra en la siguente imagen.
 
-![]()
+![](https://github.com/WilberVD/PRACTICA-DHT/blob/main/coneccion.png)
 
 ### Instrucciónes de operación
 
